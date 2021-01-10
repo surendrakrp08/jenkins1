@@ -1,2 +1,3 @@
-# jenkins1
-jenkins project tomcat deploy
+# maven-project
+
+Simple Maven Project
